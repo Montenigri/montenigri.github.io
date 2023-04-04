@@ -4,7 +4,7 @@ title: Now
 permalink: /now/
 ---
 
-In questa pagina riporterò i progetti alla quale sto lavorando al momento
+In questa pagina riporterò i progetti o le attività alla quale sto lavorando al momento
 
 Corso di laurea magistrale presso Unipa, curriculum Intelligenza Artificiale [link](https://www.unipa.it/dipartimenti/ingegneria/cds/ingegneriainformatica2035/?pagina=insegnamenti)
 
