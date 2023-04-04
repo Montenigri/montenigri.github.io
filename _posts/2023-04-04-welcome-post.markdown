@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome post"
+title:  "Post di benvenuto"
 date:   2023-04-04 15:23:45 +0200
 categories: News
 ---
