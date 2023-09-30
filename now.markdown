@@ -4,18 +4,6 @@ title: Now
 permalink: /now/
 ---
 
-
-
-Corso di laurea magistrale presso Unipa, curriculum Intelligenza Artificiale [link](https://offertaformativa.unipa.it/offweb/public/corso/visualizzaCurriculum.seam?cid=19060&oidCurriculum=21386)
-
-I progetti da sviluppare per le materie sono disponibili su github, quelli alla quale sto lavorando al momento sono:
-
-- [Visione artificiale](https://github.com/Montenigri/VisioneArtificiale)
-  
-- [Metodi Numerici](https://github.com/Montenigri/Splines)
-  
-
-
 # Stato Attuale (Now)
 
 In questa pagina riporterò i progetti o le attività alla quale sto lavorando al momento
