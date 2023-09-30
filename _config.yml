@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Montecloud
+title: Gabriele Musso
 author:
   name: Gabriele Musso
-  email: montecloud@outlook.it
+  email: Montenigri@outlook.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Un side-project per scoprire il cloud
+  Sito personale di Gabriele Musso
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Montenigri
