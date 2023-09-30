@@ -3,10 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Home
+title: home
 ---
 
-# Benvenuti sul mio Sito Web!
 
 ## Chi Sono
 
@@ -21,5 +20,5 @@ Sono Gabriele Musso, uno studente di Ingegneria Informatica con un forte interes
 
 ## Novità e Informazioni Aggiornate
 
-Qui potete trovare le ultime novità e informazioni sulle mie attività, progetti, e altro ancora: [now](/now/)
+Qui potete trovare le ultime novità e informazioni sulle mie attività, progetti, e altro ancora: [now](/now/)\
 Qui invece potrete trovare una descrizione di me e del mio percorso: [about](/about/)

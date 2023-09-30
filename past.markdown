@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Lavori precedenti
+title: Lavori Passati
 permalink: /past/
 ---
 
-# Lavori Passati
 
 In questa pagina troverete un elenco dei miei lavori e delle esperienze professionali passate. Ogni lavoro è un capitolo importante nella mia crescita professionale e ha contribuito a formare il mio percorso.
 
