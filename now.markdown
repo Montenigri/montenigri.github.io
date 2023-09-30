@@ -11,7 +11,7 @@ In questa pagina riporterò i progetti o le attività alla quale sto lavorando a
 ## Progetti Correnti
 
 ### Studi presso UniPA: Laurea magistrale in IA
-- **Descrizione:** [Link al corso di studio.](https://www.unipa.it/dipartimenti/ingegneria/cds/ingegneriainformatica2035/?pagina=insegnamenti)
+- **Descrizione:** [Link al corso di studio.](https://offertaformativa.unipa.it/offweb/public/corso/visualizzaCurriculum.seam?cid=19060&oidCurriculum=21386)
 - **Stato:** In corso.
 - **Obiettivo:** Imparare metodi e tecniche utilizzati nel contesto dell'intelligenza artificiale, con particolare focus all'analisi di immagini.
 
