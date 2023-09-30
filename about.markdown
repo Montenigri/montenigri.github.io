@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Sono Gabriele Musso, studente del corso di laurea magistrale in Ingegneria Informatica curriculum IA, il mio interesse verso l'informatica in generale è nato quando ero abbastanza piccolo e questo mondo mi sembrava magico.
+Ciao, sono Gabriele Musso, e mi piacerebbe condividere con voi il mio percorso e le mie esperienze nel mondo dell'informatica.
 
-Durante le superiori, grazie alle influenze di due docenti, mi sono appassionato particolarmente alle reti ed al sistemismo in generale, dalla gestione dell'hardware alla manutenzione dei software, per questo, in un mondo sempre più dematerializzato, penso che il cloud sia qui per restare e che sostituirà i datacenter privati di moltissime realtà, per tanto trovo essenziale conoscere a fondo questo mondo.
+La mia avventura in questo campo ha inizio durante la scuola superiore, all'istituto tecnico industriale con indirizzo informatica. Qui ho cominciato a coltivare la mia passione per la tecnologia e l'informatica, partecipando con entusiasmo a vari concorsi.
 
-Sto solo iniziando il mio viaggio nel cloud e non voglio limitarmi ad un singolo vendor, spero di riuscire a sfruttare al meglio tutti i piani gratuiti e le offerte a disposizione.
+Successivamente, ho proseguito la mia formazione universitaria ottenendo una laurea triennale in Ingegneria Informatica. Attualmente, sono immerso nel mondo accademico, frequentando il corso di laurea magistrale in Ingegneria Informatica con un curriculum dedicato all'Intelligenza Artificiale. Questa specializzazione rappresenta per me una vera e propria sfida, poiché mi permette di approfondire ulteriormente il mio interesse in un settore in costante evoluzione.
 
-Ovviamente non limiterò gli argomenti al cloud, ci sono servizi ed opzioni che trovo estremamente interessanti che sono giusto un metro fuori dal giardino del sistemismo (vedasi i servizi di Cloudflare o quelli di vpn come oneTier).
+Nel mondo del lavoro, ho svolto diverse esperienze significative. Inizialmente, ho lavorato come freelance nel campo dello sviluppo di piattaforme web, dimostrando la mia capacità di lavorare in modo autonomo e affrontare sfide complesse. In seguito, ho fatto parte del team di Exprivia, un'importante azienda nel settore IT, dove ho acquisito preziose competenze nell'ambito dello sviluppo web e nel lavoro in team. Tuttavia, ho deciso di abbandonare questa posizione per dedicarmi completamente ai miei studi.
 
-Aggiungendo una nota più personale, amo leggere e sono estremamente curioso, quando qualcosa mi appassiona ho bisogno di saperne abbastanza da comprendere come funziona effettivamente.
+Durante uno stage presso OnStairs, ho avuto l'opportunità di approfondire le mie conoscenze nel campo della sicurezza informatica e della gestione dei ticket, acquisendo competenze fondamentali per affrontare le sfide della protezione dei dati e la gestione delle richieste tecnologiche.
+
+Nel corso dei miei studi universitari, ho lavorato su una serie di progetti che hanno contribuito a sviluppare le mie competenze tecniche. Ho creato piattaforme web utilizzando tecnologie come Node.js, Express e Java JSP, dimostrando la mia abilità nella programmazione web. Inoltre, il mio interesse per l'Intelligenza Artificiale si è concretizzato in progetti legati alla visione artificiale e all'analisi di big data, mentre ho anche sperimentato lo sviluppo di piattaforme mobili utilizzando React Native.
+
+Infine, la mia competenza linguistica include un livello B2 di inglese, che mi consente di comunicare in modo efficace in ambienti internazionali e di lavorare con clienti e colleghi di diverse nazionalità.
+
+In sintesi, sono appassionato di tecnologia e informatica, con un forte background accademico e un'ampia esperienza pratica. Sono sempre alla ricerca di nuove sfide e opportunità per applicare le mie competenze e conoscenze. Spero che potremo collaborare in futuro per progetti innovativi nel campo dell'informatica e dell'Intelligenza Artificiale.
