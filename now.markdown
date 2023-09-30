@@ -6,7 +6,7 @@ permalink: /now/
 
 
 
-Corso di laurea magistrale presso Unipa, curriculum Intelligenza Artificiale [link](https://www.unipa.it/dipartimenti/ingegneria/cds/ingegneriainformatica2035/?pagina=insegnamenti)
+Corso di laurea magistrale presso Unipa, curriculum Intelligenza Artificiale [link](https://offertaformativa.unipa.it/offweb/public/corso/visualizzaCurriculum.seam?cid=19060&oidCurriculum=21386)
 
 I progetti da sviluppare per le materie sono disponibili su github, quelli alla quale sto lavorando al momento sono:
 
