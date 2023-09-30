@@ -6,7 +6,7 @@ permalink: /about/
 
 Ciao, sono Gabriele Musso, e mi piacerebbe condividere con voi il mio percorso e le mie esperienze nel mondo dell'informatica.
 
-La mia avventura in questo campo ha inizio durante la scuola superiore, all'istituto tecnico industriale con indirizzo informatica. Qui ho cominciato a coltivare la mia passione per la tecnologia e l'informatica, partecipando con entusiasmo a vari concorsi.
+La mia avventura in questo campo ha inizio durante la scuola superiore, all'istituto tecnico industriale Vittorio Emanuele III con indirizzo informatica. Qui ho cominciato a coltivare la mia passione per la tecnologia e l'informatica, partecipando con entusiasmo a vari concorsi.
 
 Successivamente, ho proseguito la mia formazione universitaria ottenendo una laurea triennale in Ingegneria Informatica. Attualmente, sono immerso nel mondo accademico, frequentando il corso di laurea magistrale in Ingegneria Informatica con un curriculum dedicato all'Intelligenza Artificiale. Questa specializzazione rappresenta per me una vera e propria sfida, poiché mi permette di approfondire ulteriormente il mio interesse in un settore in costante evoluzione.
 
