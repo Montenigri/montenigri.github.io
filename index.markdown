@@ -20,5 +20,6 @@ Sono Gabriele Musso, uno studente di Ingegneria Informatica con un forte interes
 
 ## Novità e Informazioni Aggiornate
 
-Qui potete trovare le ultime novità e informazioni sulle mie attività, progetti, e altro ancora: [now](/now/)\
+Qui potete trovare le ultime novità e informazioni sulle mie attività, progetti, e altro ancora: [now](/now/)
+
 Qui invece potrete trovare una descrizione di me e del mio percorso: [about](/about/)
