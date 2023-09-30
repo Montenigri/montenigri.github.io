@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Now
+title: Stato Attuale (Now)
 permalink: /now/
 ---
-
-# Stato Attuale (Now)
 
 In questa pagina riporterò i progetti o le attività alla quale sto lavorando al momento
 
