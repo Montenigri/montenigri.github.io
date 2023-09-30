@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stato Attuale (Now)
+title: Now
 permalink: /now/
 ---
 
