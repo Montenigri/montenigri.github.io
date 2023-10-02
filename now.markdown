@@ -41,4 +41,5 @@ Ulteriori dettagli e aggiornamenti verranno pubblicati su questa pagina "Now" ma
 ### Web systems design and architecture
 - **Descrizione:** Per il completamento del corso di Web system ci è stata richiesta l'implementazione di un sistema di gestione di carte, le richieste sono presenti nel file Progetto_WSDA.pdf.
 - **Stato:** Completato.
+- **Repo:** [Web-systems-design-and-architecture](https://github.com/Montenigri/Web-systems-design-and-architecture)
 
