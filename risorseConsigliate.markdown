@@ -20,4 +20,5 @@ Riassumo delle risorse che trovo interessanti, senza un particolare ordine
 - **[How money works](https://www.youtube.com/@HowMoneyWorks)**
 - **[Integza](https://www.youtube.com/@integza)**
 - **[3 blue 1 brown](https://www.youtube.com/@3blue1brown)**
+- **[Paolo Coletti](https://www.youtube.com/@PaoloColetti)**
 
