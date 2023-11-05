@@ -22,6 +22,11 @@ In questa pagina riporterò i progetti o le attività alla quale sto lavorando a
 - **Stato:** In corso.
 - **Repo:** [NLP](https://github.com/Montenigri/NLP)
 
+### Marvin project 
+- **Descrizione:** Automobilina RC modificata per essere controllata tramite una camera ed un controller xinput usando un webserver flask
+- **Stato:** In corso.
+- **Repo:** [Marvin](https://github.com/Montenigri/Marvin)
+
 
 ## Come Posso Aiutare
 
