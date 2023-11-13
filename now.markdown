@@ -13,10 +13,6 @@ In questa pagina riporterò i progetti o le attività alla quale sto lavorando a
 - **Stato:** In corso.
 - **Obiettivo:** Imparare metodi e tecniche utilizzati nel contesto dell'intelligenza artificiale, con particolare focus all'analisi di immagini.
 
-### Metodi numerici avanzati 
-- **Descrizione:** Implementazione dei metodi visti in Visione artificiale tramite l'uso di soli metodi matematici implementati from scratch.
-- **Stato:** In corso.
-
 ### Natural language processing 
 - **Descrizione:** Corso che si propone di capire i fondamentali dell'interpretazione del linguaggio parlato da parte delle macchine.
 - **Stato:** In corso.
