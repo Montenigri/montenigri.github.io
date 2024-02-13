@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Risorse Consigliate
+title: Risorse consigliate
 permalink: /risorseconsigliate/
 ---
 
