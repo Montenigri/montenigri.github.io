@@ -21,4 +21,5 @@ Riassumo delle risorse che trovo interessanti, senza un particolare ordine
 - **[Integza](https://www.youtube.com/@integza)**
 - **[3 blue 1 brown](https://www.youtube.com/@3blue1brown)**
 - **[Paolo Coletti](https://www.youtube.com/@PaoloColetti)**
+- **[Technology Connections](https://www.youtube.com/@TechnologyConnections)**
 
