@@ -10,6 +10,7 @@ In questa pagina troverete un elenco dei miei lavori e delle esperienze professi
 
 ### Sistemista presso Algios
 - **Azienda:** Algios (startup)
+- **Periodo:** Marzo 2025 - Presente
 - **Posizione:** Sistemista
 - **Responsabilità:**
     - Gestione e manutenzione dell'infrastruttura server.
@@ -22,6 +23,8 @@ In questa pagina troverete un elenco dei miei lavori e delle esperienze professi
 
 ### Borsista presso SmartiLab
 - **Azienda:** [SmartiLab, Università di Palermo](http://smartilab.unipa.it/)
+- **Periodo:** Dicembre 2024 - Presente
+
 - **Posizione:** Borsista di ricerca
 - **Sviluppo di un Pavement Management System (PMS):**
     - Basato su algoritmi di Machine Learning per la previsione delle condizioni del manto stradale.
