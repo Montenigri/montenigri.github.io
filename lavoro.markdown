@@ -2,6 +2,7 @@
 layout: page
 title: Esperienze professionali
 permalink: /lavoro/
+nav_order: 2
 ---
 
 

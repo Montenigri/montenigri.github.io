@@ -2,6 +2,7 @@
 layout: page
 title: Progetti e studi
 permalink: /studi/
+nav_order: 3
 ---
 
 In questa pagina riporterò i progetti o le attività alla quale sto lavorando al momento

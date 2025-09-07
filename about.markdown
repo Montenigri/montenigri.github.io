@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+nav_order: 5
 ---
 
 Ciao, sono Gabriele Musso, e mi piacerebbe condividere con voi il mio percorso e le mie esperienze nel mondo dell'informatica.

@@ -2,6 +2,7 @@
 layout: page
 title: Risorse consigliate
 permalink: /risorseconsigliate/
+nav_order: 4
 ---
 
 Riassumo delle risorse che trovo interessanti, senza un particolare ordine
