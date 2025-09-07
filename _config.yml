@@ -42,8 +42,8 @@ minima:
 header_pages:
   - index.markdown
   - about.markdown
-  - now.markdown
-  - past.markdown
+  - studi.markdown
+  - lavoro.markdown
   - risorseConsigliate.markdown
 # Exclude from processing.
 # The following items will not be processed, by default.
